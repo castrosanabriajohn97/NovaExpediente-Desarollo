@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 <template>
   <div class="c-app flex-row align-items-center" style="background-image:url('/img/fondo-login.jpg')">
     <CContainer>

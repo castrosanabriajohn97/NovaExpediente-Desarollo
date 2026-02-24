@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 // For authoring Nightwatch tests, see
 // http://nightwatchjs.org/guide#usage
 

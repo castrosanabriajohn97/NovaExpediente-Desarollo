@@ -1,3 +1,4 @@
+// EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature.
 ﻿using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using NovaExpediente.Application.Colaboradores.Queries.GetColaboradorVacacionesPorPerfil;

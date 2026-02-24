@@ -1,3 +1,4 @@
+// EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature.
 ﻿using FluentAssertions;
 using NovaExpediente.Application.EspecialidadesConsultor.Queries.GetListaEspecialidadConsultor;
 using NovaExpediente.Domain.Entities;

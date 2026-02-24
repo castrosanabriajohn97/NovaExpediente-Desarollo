@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 // This is the annotated source code for
 // [VisualSearch.js](http://documentcloud.github.com/visualsearch/),
 // a rich search box for real data.

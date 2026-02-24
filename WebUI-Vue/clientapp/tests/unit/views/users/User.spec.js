@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 import { mount, createLocalVue } from '@vue/test-utils'
 import VueRouter from 'vue-router'
 import CoreuiVue from '@coreui/vue'

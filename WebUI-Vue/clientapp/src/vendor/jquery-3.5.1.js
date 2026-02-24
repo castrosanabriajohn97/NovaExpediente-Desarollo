@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 /*!
  * jQuery JavaScript Library v3.5.1
  * https://jquery.com/

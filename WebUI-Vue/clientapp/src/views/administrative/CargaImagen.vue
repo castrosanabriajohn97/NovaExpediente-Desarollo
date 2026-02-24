@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 <template>
   <div>
     <cld-image public-id="zsfmdnzgc9m8kx1pgpfp" secure="true">

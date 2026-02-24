@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 const gradosData = [
   { nombre: "Técnico", descripcion: " Es semejante al Diplomado, pero certifica como técnico en un área en particular", orden:2 },
   { nombre: "Diplomado", descripcion: "Es un programa corto sobre un área específica", orden:1 },

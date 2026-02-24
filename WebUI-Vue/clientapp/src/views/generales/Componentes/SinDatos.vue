@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 <template>
   <CBadge color="secondary color badge SinDatos" class="mr-2 text-wrap mt-2 SinDatos" shape="pill">
     {{ mensaje }} </CBadge

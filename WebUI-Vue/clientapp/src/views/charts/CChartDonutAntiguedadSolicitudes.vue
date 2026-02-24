@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 <template>
   <apexchart type="donut" ref="chartAntiguedad2" :options="antiguedadSolicitudesOptions" :series="datos"></apexchart>
 </template>

@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 const usersData = [
   { username: 'Samppa Nori', registered: '2012/01/01', role: 'Member', status: 'Active'},
   { username: 'Estavan Lykos', registered: '2012/02/01', role: 'Staff', status: 'Banned'},
