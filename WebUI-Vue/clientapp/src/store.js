@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 import Vue from 'vue'
 import Vuex from 'vuex'
 Vue.use(Vuex)

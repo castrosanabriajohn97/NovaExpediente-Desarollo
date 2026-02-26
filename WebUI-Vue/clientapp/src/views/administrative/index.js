@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 import PickList from '../generales/Componentes/PickList';
 import ResumenColaborador from "../masterdata/ResumenColaborador";
 import BotoneraMasterData from "../masterdata/BotoneraMasterData.vue";

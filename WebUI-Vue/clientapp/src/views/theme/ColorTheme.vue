@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 <template>
   <CCol xl="2" md="4" sm="6" xs="12" class="mb-4">
     <div

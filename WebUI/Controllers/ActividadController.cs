@@ -1,3 +1,4 @@
+// EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature.
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NovaExpediente.Application.Actividades.Queries.GetActividadesDiaConsulta;

@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 import 'core-js/stable'
 import Vue from 'vue'
 import VueFormulate from '@braid/vue-formulate'

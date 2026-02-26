@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 export default {
   clientid: process.env.VUE_APP_MSAL_CLIENTID, //'b7d74dd5-86a5-458a-8b2c-926bf4f79c45',
   redirecturl: process.env.VUE_APP_MSAL_REDIRECTURL, //'http://localhost:8080/callback',

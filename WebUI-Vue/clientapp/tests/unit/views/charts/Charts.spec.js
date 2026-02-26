@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 import Vue from 'vue'
 import { shallowMount } from '@vue/test-utils';
 import CoreuiVue from '@coreui/vue'

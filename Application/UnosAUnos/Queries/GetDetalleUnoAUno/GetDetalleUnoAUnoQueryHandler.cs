@@ -1,3 +1,4 @@
+// EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature.
 ﻿using MediatR;
 using NovaExpediente.Application.AplicacionMovil.Convenios.Queries.GetDetalleConvenio;
 using NovaExpediente.Application.Common.Interfaces;

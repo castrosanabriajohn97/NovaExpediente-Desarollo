@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 <template>
   <CContainer class="d-flex align-items-center min-vh-100">
     <CRow class="w-100 justify-content-center">

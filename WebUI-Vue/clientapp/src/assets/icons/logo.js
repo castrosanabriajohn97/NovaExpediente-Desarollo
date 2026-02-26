@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 // Example of SVG converted to js array, so it can be used with CIcon.
 // the first argument is two last values of svg viewBox, 
 // the second argument is the SVG content stripped of SVG tags

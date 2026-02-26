@@ -1,3 +1,4 @@
+/* EXPLANATORY COMMENT: This file participates in the NovaExpediente solution and contains implementation details for its corresponding feature. */
 import CChartLineSimple from './CChartLineSimple'
 import CChartBarSimple from './CChartBarSimple'
 import CChartLineExample from './CChartLineExample'
